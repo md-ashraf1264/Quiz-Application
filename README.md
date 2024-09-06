@@ -18,8 +18,7 @@ NetBeans IDE or any other Java IDE supporting Swing and AWT.
 Steps to Run
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/your-username/quiz-application.git
+
 Open the project in NetBeans:
 In NetBeans, select File -> Open Project, then navigate to the cloned directory and open the project.
 Run the project:
